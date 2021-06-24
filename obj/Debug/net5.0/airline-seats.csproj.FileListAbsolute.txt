@@ -1,0 +1,16 @@
+C:\Users\bmircetic\nelnet-projects\airline-seats\bin\Debug\net5.0\airline-seats.exe
+C:\Users\bmircetic\nelnet-projects\airline-seats\bin\Debug\net5.0\airline-seats.deps.json
+C:\Users\bmircetic\nelnet-projects\airline-seats\bin\Debug\net5.0\airline-seats.runtimeconfig.json
+C:\Users\bmircetic\nelnet-projects\airline-seats\bin\Debug\net5.0\airline-seats.runtimeconfig.dev.json
+C:\Users\bmircetic\nelnet-projects\airline-seats\bin\Debug\net5.0\airline-seats.dll
+C:\Users\bmircetic\nelnet-projects\airline-seats\bin\Debug\net5.0\ref\airline-seats.dll
+C:\Users\bmircetic\nelnet-projects\airline-seats\bin\Debug\net5.0\airline-seats.pdb
+C:\Users\bmircetic\nelnet-projects\airline-seats\obj\Debug\net5.0\airline-seats.csproj.AssemblyReference.cache
+C:\Users\bmircetic\nelnet-projects\airline-seats\obj\Debug\net5.0\airline-seats.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bmircetic\nelnet-projects\airline-seats\obj\Debug\net5.0\airline-seats.AssemblyInfoInputs.cache
+C:\Users\bmircetic\nelnet-projects\airline-seats\obj\Debug\net5.0\airline-seats.AssemblyInfo.cs
+C:\Users\bmircetic\nelnet-projects\airline-seats\obj\Debug\net5.0\airline-seats.csproj.CoreCompileInputs.cache
+C:\Users\bmircetic\nelnet-projects\airline-seats\obj\Debug\net5.0\airline-seats.dll
+C:\Users\bmircetic\nelnet-projects\airline-seats\obj\Debug\net5.0\ref\airline-seats.dll
+C:\Users\bmircetic\nelnet-projects\airline-seats\obj\Debug\net5.0\airline-seats.pdb
+C:\Users\bmircetic\nelnet-projects\airline-seats\obj\Debug\net5.0\airline-seats.genruntimeconfig.cache
